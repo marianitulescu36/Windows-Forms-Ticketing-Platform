@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfOferte xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Oferte>
+    <Id>1</Id>
+    <Destinatie>Hawaii, Honolulu</Destinatie>
+    <Serviciu>Cazare - Hotel</Serviciu>
+    <Pret>3500</Pret>
+    <Detalii>3 zile, pat dublu, room service</Detalii>
+  </Oferte>
+  <Oferte>
+    <Id>2</Id>
+    <Destinatie>Italia, Milano</Destinatie>
+    <Serviciu>Cazare - Hotel</Serviciu>
+    <Pret>2700</Pret>
+    <Detalii>4 zile, fara masa, pat single x2</Detalii>
+  </Oferte>
+  <Oferte>
+    <Id>3</Id>
+    <Destinatie>Turcia, Istanbul</Destinatie>
+    <Serviciu>Cazare, Transport</Serviciu>
+    <Pret>2800</Pret>
+    <Detalii>5 zile, transport cu avionul</Detalii>
+  </Oferte>
+  <Oferte>
+    <Id>4</Id>
+    <Destinatie>Grecia, Corfu</Destinatie>
+    <Serviciu>Transport, Asigurare de viata</Serviciu>
+    <Pret>900</Pret>
+    <Detalii>Transport cu autocarul, Asigurare Regina Maria</Detalii>
+  </Oferte>
+  <Oferte>
+    <Id>5</Id>
+    <Destinatie>Indonezia, Bali</Destinatie>
+    <Serviciu>Cazare, Transport, Asigurare</Serviciu>
+    <Pret>5900</Pret>
+    <Detalii>4 zile, Doppelzimmer SUPERIOR-ZIMMER, Transport cu avionul, Asigurare Groupama</Detalii>
+  </Oferte>
+  <Oferte>
+    <Id>6</Id>
+    <Destinatie>Israel, Ierusalim</Destinatie>
+    <Serviciu>Circuit religios, Transport</Serviciu>
+    <Pret>1500</Pret>
+    <Detalii>2 zile, transport cu autocarul</Detalii>
+  </Oferte>
+</ArrayOfOferte>

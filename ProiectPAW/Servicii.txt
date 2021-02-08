@@ -1,0 +1,12 @@
+Cazare	Hotel
+Cazare	Pensiune
+Cazare	AirBnb
+Asigurari	Asigurare medicala
+Asigurari	Asigurare de calatorie
+Circuite	Circuite montane
+Circuite	Circuit religios
+Circuite	Circuite in natura
+Transport	Transport cu avionul - clasa I
+Transport	Transport cu avionul - clasa a II-a
+Transport	Transport cu autocarul
+Croaziera	Croaziera
